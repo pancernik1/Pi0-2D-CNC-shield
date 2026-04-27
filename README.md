@@ -16,3 +16,6 @@ This is a sideproject i made for Hackclub Stasis, it aims to make the raspberry 
 |I2C-2|JST connector for I2C device|
 |SENS-1|JST connector for connecting sensors/other GPIO devices|
 |SENS-2|JST connector for connecting sensors/other GPIO devices|
+
+# BoM
+The BoM can be found in the Project-files folder or on ![My stasis page](https://stasis.hackclub.com/dashboard/discover/cmodeeflm011401mx99b0l96k)
