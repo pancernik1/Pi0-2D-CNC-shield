@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Some JST connectors","These serve as ports for all the devices",,0.00,"","Own supply"
+"DC003A connector","It is used for powering the PCB , i only need one but i could only find sets",10,1.05,"https://www.aliexpress.com/item/1005002366570638.html","Aliexpress"
+"A4988 Stepper Motor Controller","It allows the Raspberry Pi to control the stepper motors",2,1.56,"https://www.aliexpress.com/item/1005009009368292.html","Aliexpress"
+"2x20 2.54mm Goldpin connector","Connects the Raspberry Pi to the PCB",1,0.25,"https://www.aliexpress.com/item/1005005342789696.html","Aliexpress"
+"Custom PCB","It is the heart of the project , connecting all of the components (Files available on github)",1,2.00,"","JLCPCB"
