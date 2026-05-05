@@ -17,7 +17,7 @@ This is a sideproject i made for Hackclub Stasis, it aims to make the raspberry 
 |SENS-2|JST connector for connecting sensors/other GPIO devices|
 
 # Routing
-![pcb.png](https://github.com/pancernik1/Pi0-2D-CNC-shield/blob/13eeaab1e8e6314a44f4f6d6375c262eb7c1fe1f/Media/pcb_updated.webp)
+![image](https://stasis.hackclub-assets.com/images/1777234165503-dxfk10.png)
 
 # PCB Render
 ![img](https://stasis.hackclub-assets.com/images/1777153572868-ibuv46.png)
