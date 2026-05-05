@@ -2,9 +2,6 @@
 This is a sideproject i made for Hackclub Stasis, it aims to make the raspberry pi zero a viable option for 2D CNC by giving it the ability to control 2 stepper motors , 2 I2C devices and connect 2 digital sensors (although you can also connect servos or other devices that run on 3.3V digital signals)
 # Schematic
 ![schematic.png](https://github.com/pancernik1/Pi0-2D-CNC-shield/blob/13eeaab1e8e6314a44f4f6d6375c262eb7c1fe1f/Media/schematic.png)
-# Routing
-![pcb.png](https://github.com/pancernik1/Pi0-2D-CNC-shield/blob/13eeaab1e8e6314a44f4f6d6375c262eb7c1fe1f/Media/pcb_updated.webp)
-
 ## Part Descriptons
 |NAME      |FUNCTION  |
 |:---------|:---------|
@@ -19,12 +16,25 @@ This is a sideproject i made for Hackclub Stasis, it aims to make the raspberry 
 |SENS-1|JST connector for connecting sensors/other GPIO devices|
 |SENS-2|JST connector for connecting sensors/other GPIO devices|
 
+# Routing
+![pcb.png](https://github.com/pancernik1/Pi0-2D-CNC-shield/blob/13eeaab1e8e6314a44f4f6d6375c262eb7c1fe1f/Media/pcb_updated.webp)
+
+# PCB Render
+![img](https://stasis.hackclub-assets.com/images/1777153572868-ibuv46.png)
+
 # BoM
 The BoM can be found in the Project-files folder or on ![My stasis page](https://stasis.hackclub.com/dashboard/discover/cmodeeflm011401mx99b0l96k)
 
 
 # Making process
 This is a copy of my stasis journals.
+
+## 5/5/2026 8 PM - Correcting the repo
+
+_Time spent: 0.15h_
+
+This was a really small change , i updated the media and README , added the journals , and thats basically everything. I hope the repo is fine now , as i don't see what else could be updated. 
+![image](https://stasis.hackclub-assets.com/images/1778011435365-fr66z8.png)
 
 ## 4/27/2026 2 PM - Creating Github repo
 
