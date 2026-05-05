@@ -2,6 +2,8 @@
 This is a sideproject i made for Hackclub Stasis, it aims to make the raspberry pi zero a viable option for 2D CNC by giving it the ability to control 2 stepper motors , 2 I2C devices and connect 2 digital sensors (although you can also connect servos or other devices that run on 3.3V digital signals)
 # Schematic
 ![schematic.png](https://github.com/pancernik1/Pi0-2D-CNC-shield/blob/13eeaab1e8e6314a44f4f6d6375c262eb7c1fe1f/Media/schematic.png)
+# Routing
+![pcb.png](https://github.com/pancernik1/Pi0-2D-CNC-shield/blob/13eeaab1e8e6314a44f4f6d6375c262eb7c1fe1f/Media/pcb.png)
 
 ## Part Descriptons
 |NAME      |FUNCTION  |
