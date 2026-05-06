@@ -23,7 +23,7 @@ This is a sideproject i made for Hackclub Stasis, it aims to make the raspberry 
 ![img](https://stasis.hackclub-assets.com/images/1777153572868-ibuv46.png)
 
 # BoM
-The BoM can be found in the Project-files folder or on ![My stasis page](https://stasis.hackclub.com/dashboard/discover/cmodeeflm011401mx99b0l96k)
+The BoM can be found in the Project-files folder or on [My stasis page](https://stasis.hackclub.com/dashboard/discover/cmodeeflm011401mx99b0l96k)
 
 
 # Making process
